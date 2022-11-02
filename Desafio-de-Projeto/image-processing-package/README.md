@@ -1,8 +1,8 @@
-# image_processing
+# ef_image_processing
 
 Description. 
-The package image_processing is used to:
-	Processing:
+The package ef_image_processing is used to:
+	EF_Processing:
 		- Histogram matching
 		- Structural similarity
 		- Resize image
@@ -15,14 +15,14 @@ The package image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ef_image_processing
 
 ```bash
-pip install image_processing
+pip install ef_image_processing
 ```
 
 ## Author
-Elpidio Ferreira
+Elpidio
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
